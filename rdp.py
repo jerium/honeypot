@@ -5,7 +5,7 @@ import datetime
 import time
 from socket import socket, AF_INET, SOCK_STREAM
 
-VERSION = '0.5 Mikes Fun Version'
+VERSION = '0.5 Jeremy Fun Version'
 welcome = b"Secret Server login: "
 address = "localhost" #Change to your IP address 
 
